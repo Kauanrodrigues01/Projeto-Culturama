@@ -414,7 +414,8 @@ img:hover {
     .rodape {
         padding-left: 2.5rem;
         padding-right: 2.5rem;
-    }   
+    }
+
 }
 
 @media(min-width: 1440px) {
@@ -486,5 +487,6 @@ img:hover {
     .rodape {
         padding-left: 7.5rem;
         padding-right: 7.5rem;
-    }  
+    }
+
 }
