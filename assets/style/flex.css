@@ -73,7 +73,7 @@
     width: 100%;
 }
 
-/* Rodape */
+/* RODAPÉ */
 .rodape{
     display: flex;
     flex-wrap: wrap;
@@ -107,7 +107,7 @@
         justify-content: flex-end;
     }
 
-    /* SEÇAO AGENDA */
+    /* SEÇÃO AGENDA */
     .agenda__botao{
         justify-content: flex-end;
     }
